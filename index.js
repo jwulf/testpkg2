@@ -1,5 +1,5 @@
 
-const spell = () => {
+var spell = () => {
 magik.exsultus(75);
 magik.dixit("YAAAAAY!!!"):
 }
